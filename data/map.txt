@@ -1,0 +1,1525 @@
+
+system "Suntrap 1"
+	pos 522.387 210.084
+	habitable 1080
+	link "Travel 3"
+	link "Suntrap 5"
+	link "Suntrap 6"
+	link "Suntrap 2"
+	asteroids "small metal" 81 2.016
+	asteroids "medium metal" 4 1.575
+	asteroids "large metal" 16 2.73
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/lava7
+		distance 172.49
+		period 27.5736
+	object
+		sprite planet/desert0
+		distance 375.98
+		period 88.7351
+	object "Planet 8"
+		sprite planet/ocean8
+		distance 704.14
+		period 227.424
+	object
+		sprite planet/gas12
+		distance 2218.03
+		period 1271.45
+		object
+			sprite planet/dust1
+			distance 297
+			period 13.4437
+		object
+			sprite planet/ice8
+			distance 426
+			period 23.094
+		object
+			sprite planet/dust3
+			distance 531
+			period 32.1386
+
+system "Suntrap 2"
+	pos 569.387 259.084
+	habitable 320
+	link "Suntrap 5"
+	link "Suntrap 4"
+	link "Suntrap 3"
+	link "Suntrap 1"
+	asteroids "small rock" 44 3.3345
+	asteroids "medium rock" 165 2.4921
+	asteroids "large rock" 60 3.5451
+	asteroids "small metal" 12 2.7378
+	asteroids "medium metal" 9 1.9656
+	asteroids "large metal" 17 4.9491
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/m0
+		period 10
+	object "Planet 9"
+		sprite planet/cloud4
+		distance 204.612
+		period 65.4459
+		offset 216.041
+	object
+		sprite planet/forest2
+		distance 543.772
+		period 283.537
+		offset 197.781
+	object
+		sprite planet/dust3
+		distance 895.012
+		period 598.726
+		offset 54.6304
+	object
+		sprite planet/lava1
+		distance 1214.57
+		period 946.499
+		offset 25.0558
+	object
+		sprite planet/gas2
+		distance 2288.33
+		period 2447.73
+		offset 5.03564
+		object
+			sprite planet/ice8
+			distance 172
+			period 13.6681
+
+system "Suntrap 3"
+	pos 573.387 335.084
+	habitable 625
+	link "Suntrap 4"
+	link "Suntrap 2"
+	asteroids "small rock" 32 3.75
+	asteroids "medium rock" 29 5.2125
+	asteroids "large rock" 100 5.625
+	asteroids "small metal" 2 3.2625
+	asteroids "medium metal" 122 2.325
+	asteroids "large metal" 1 5.025
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/g5
+		period 10
+	object "Planet 10"
+		sprite planet/lava7
+		distance 180.587
+		period 38.8284
+		offset 40.7367
+	object
+		sprite planet/rock5
+		distance 465.077
+		period 160.475
+		offset 318.128
+	object
+		sprite planet/ocean3
+		distance 726.637
+		period 313.398
+		offset 222.081
+	object
+		sprite planet/rock4
+		distance 1274.28
+		period 727.806
+		offset 324.876
+		object
+			sprite planet/callisto
+			distance 168
+			period 19.8241
+	object
+		sprite planet/gas9
+		distance 4066.69
+		period 4149.36
+		offset 358.002
+		object
+			sprite planet/rock14
+			distance 263
+			period 15.9928
+
+system "Suntrap 4"
+	pos 657.387 285.084
+	habitable 1050.92
+	link "Suntrap 2"
+	link "Suntrap 5"
+	link "Suntrap 3"
+	asteroids "large metal" 1 2.7608
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/g5
+		distance 47.0128
+		period 15.4157
+	object
+		sprite star/k5
+		distance 68.9872
+		period 15.4157
+		offset 180
+	object
+		sprite planet/cloud4
+		distance 237.277
+		period 45.0982
+	object
+		sprite planet/desert0
+		distance 454.717
+		period 119.643
+	object "Planet 11"
+		sprite planet/gas10
+		distance 844.077
+		period 302.586
+		object
+			sprite planet/dust5
+			distance 217
+			period 16.8262
+	object
+		sprite planet/gas3
+		distance 2058.17
+		period 1152.12
+		object
+			sprite planet/lava0
+			distance 323
+			period 14.8275
+		object
+			sprite planet/luna
+			distance 474
+			period 26.3592
+
+system "Suntrap 5"
+	pos 637.387 206.084
+	habitable 625
+	link "Suntrap 1"
+	link "Suntrap 6"
+	link "Suntrap 2"
+	link "Suntrap 4"
+	asteroids "small rock" 2 1.4278
+	asteroids "medium rock" 36 3.6058
+	asteroids "large rock" 1 3.267
+	asteroids "small metal" 16 2.662
+	asteroids "medium metal" 132 3.509
+	asteroids "large metal" 4 3.2428
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/g5
+		period 10
+	object
+		sprite planet/lava6
+		distance 132.44
+		period 24.3865
+	object "Planet 12"
+		sprite planet/rock6
+		distance 493.93
+		period 175.638
+		object
+			sprite planet/lava0
+			distance 175
+			period 29.1018
+	object
+		sprite planet/gas6
+		distance 1517.34
+		period 945.68
+		object
+			sprite planet/callisto
+			distance 316
+			period 14.3481
+		object
+			sprite planet/oberon
+			distance 434
+			period 23.094
+		object
+			sprite planet/tethys
+			distance 575
+			period 35.2181
+		object
+			sprite planet/rock0
+			distance 705
+			period 47.8133
+
+system "Suntrap 6"
+	pos 553.387 146.084
+	habitable 912.6
+	link "Suntrap 5"
+	link "Suntrap 1"
+	asteroids "small rock" 29 2.3925
+	asteroids "medium rock" 43 2.2185
+	asteroids "large rock" 122 5.742
+	asteroids "small metal" 8 3.5235
+	asteroids "medium metal" 10 4.611
+	asteroids "large metal" 17 5.5245
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k0
+		distance 56.472
+		period 17.6237
+	object
+		sprite star/k5
+		distance 64.528
+		period 17.6237
+		offset 180
+	object
+		sprite planet/dust5
+		distance 223.218
+		period 44.1584
+	object
+		sprite planet/rhea
+		distance 364.658
+		period 92.2037
+	object
+		sprite planet/forest1
+		distance 567.091
+		period 178.813
+		offset 197.52
+	object
+		sprite planet/ice4
+		distance 1218.78
+		period 563.39
+		offset 27.8615
+		object "Moon 2"
+			sprite planet/oberon
+			distance 148.838
+			period 22.8261
+			offset 99.8946
+	object
+		sprite planet/gas16
+		distance 3054.18
+		period 2234.92
+		offset 3.32636
+
+system "Swarm 1"
+	pos -119.582 576.612
+	government Uninhabited
+	habitable 851.84
+	link "Swarm 2"
+	link "Swarm 5"
+	asteroids "small rock" 16 2.1868
+	asteroids "large rock" 93 1.694
+	asteroids "small metal" 3 2.8644
+	asteroids "medium metal" 43 2.5256
+	asteroids "large metal" 6 4.004
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/k5
+		distance 60
+		period 18.0158
+		offset 180
+	object
+		sprite star/k5
+		distance 60
+		period 18.0158
+	object
+		sprite planet/rock19
+		distance 338.96
+		period 85.5271
+		object
+			sprite planet/rock7
+			distance 162
+			period 27.5568
+	object
+		sprite planet/desert9
+		distance 663.4
+		period 234.177
+	object
+		sprite planet/gas7
+		distance 1446.56
+		period 754.025
+		object
+			sprite planet/lava0
+			distance 244
+			period 13.5586
+		object
+			sprite planet/europa
+			distance 399
+			period 28.3524
+	object "Swarm Planet 1"
+		sprite planet/gas12
+		distance 3071.65
+		period 2333.13
+		object
+			sprite planet/dust3
+			distance 290
+			period 12.9713
+		object
+			sprite planet/dust4
+			distance 398
+			period 20.855
+		object
+			sprite planet/rock0
+			distance 574
+			period 36.1204
+		object
+			sprite planet/rock3
+			distance 696
+			period 48.228
+
+system "Swarm 2"
+	pos -52.582 627.612
+	government Uninhabited
+	habitable 486.68
+	link "Swarm 1"
+	link "Swarm 5"
+	link "Swarm enter"
+	asteroids "small rock" 1 1.218
+	asteroids "large rock" 1 0.868
+	asteroids "medium metal" 8 1.694
+	asteroids "large metal" 19 1.372
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert0
+		distance 264
+		period 77.7757
+		object
+			sprite planet/rock7
+			distance 143
+			period 21.4964
+	object
+		sprite planet/lava5
+		distance 555.64
+		period 237.481
+	object
+		sprite planet/lava3
+		distance 735.65
+		period 361.78
+	object
+		sprite planet/cloud1
+		distance 1057.81
+		period 623.806
+	object "Swarm Planet 2"
+		sprite planet/gas16
+		distance 2700.06
+		period 2543.89
+		object
+			sprite planet/rock3
+			distance 195
+			period 14.3334
+
+system "Swarm 3"
+	pos -8.71714 702.102
+	government Uninhabited
+	habitable 1080
+	link "Swarm 5"
+	link "Swarm 6"
+	link "Swarm 7"
+	link "Swarm 4"
+	asteroids "small rock" 8 1.62
+	asteroids "medium rock" 121 2.64
+	asteroids "large rock" 117 1.78
+	asteroids "small metal" 21 2.36
+	asteroids "medium metal" 32 1.08
+	asteroids "large metal" 2 2.84
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/gas11
+		distance 417
+		period 103.646
+		object
+			sprite planet/europa
+			distance 257
+			period 13.5887
+	object
+		sprite planet/gas14
+		distance 1076.69
+		period 430.016
+		object
+			sprite planet/desert4
+			distance 249
+			period 16.0014
+	object
+		sprite planet/neptune
+		distance 1714.05
+		period 863.741
+		object
+			sprite planet/rock14
+			distance 228
+			period 17.1528
+	object "Swarm Planet 3"
+		sprite planet/gas5
+		distance 2314.14
+		period 1354.98
+
+system "Swarm 4"
+	pos 69.418 663.612
+	government Uninhabited
+	habitable 486.68
+	link "Swarm 3"
+	link "Swarm 7"
+	asteroids "small rock" 78 1.652
+	asteroids "medium rock" 26 1.19
+	asteroids "large rock" 27 2.044
+	asteroids "small metal" 11 1.316
+	asteroids "medium metal" 13 0.98
+	asteroids "large metal" 14 0.952
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/gas14
+		distance 374.24
+		period 131.269
+		object
+			sprite planet/ice7
+			distance 244
+			period 15.5218
+	object
+		sprite planet/rock4
+		distance 883.93
+		period 476.502
+	object "Swarm Planet 4"
+		sprite planet/gas1
+		distance 1774.62
+		period 1355.49
+		object
+			sprite planet/dust3
+			distance 223
+			period 13.3098
+		object
+			sprite planet/europa
+			distance 308
+			period 21.6044
+		object
+			sprite planet/dust0
+			distance 454
+			period 38.6633
+
+system "Swarm 5"
+	pos -83.3347 668.229
+	government Uninhabited
+	habitable 719.96
+	link "Swarm 2"
+	link "Swarm 1"
+	link "Swarm 6"
+	link "Swarm 3"
+	asteroids "medium rock" 4 5.28
+	asteroids "large rock" 1 3.52
+	asteroids "small metal" 44 2.08
+	asteroids "medium metal" 2 3.32
+	asteroids "large metal" 15 5.8
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/k0
+		distance 34.0219
+		period 16.0395
+		offset 180
+	object
+		sprite star/m4
+		distance 70.9781
+		period 16.0395
+	object
+		sprite planet/rock8
+		distance 206.538
+		period 44.2493
+	object
+		sprite planet/rock5
+		distance 388.298
+		period 114.065
+	object
+		sprite planet/rock18
+		distance 832.508
+		period 358.087
+	object "Swarm Planet 5"
+		sprite planet/uranus
+		distance 1466.32
+		period 837.044
+		object
+			sprite planet/rock7
+			distance 224
+			period 14.3234
+		object
+			sprite planet/ice7
+			distance 379
+			period 31.5233
+	object
+		sprite planet/jupiter
+		distance 2694.32
+		period 2084.87
+		object
+			sprite planet/rock17
+			distance 232
+			period 11.1044
+		object
+			sprite planet/dust4
+			distance 369
+			period 22.2742
+		object
+			sprite planet/rock0
+			distance 497
+			period 34.8174
+		object
+			sprite planet/rhea
+			distance 684
+			period 56.2142
+
+system "Swarm 6"
+	pos -104.402 722.719
+	government Uninhabited
+	habitable 5233.28
+	link "Swarm 5"
+	link "Swarm 3"
+	asteroids "small rock" 1 3.696
+	asteroids "medium rock" 24 2.184
+	asteroids "large rock" 9 5.124
+	asteroids "small metal" 11 5.124
+	asteroids "medium metal" 5 5.586
+	asteroids "large metal" 21 2.814
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/a0
+		distance 5.4383
+		period 7.45097
+	object
+		sprite star/m4
+		distance 116.562
+		period 7.45097
+		offset 180
+	object
+		sprite planet/tethys
+		distance 217.852
+		period 17.7793
+	object
+		sprite planet/rock5
+		distance 363.692
+		period 38.3507
+	object "Swarm Planet 6"
+		sprite planet/jupiter
+		distance 961.982
+		period 164.977
+	object
+		sprite planet/gas13
+		distance 2364.94
+		period 635.922
+		object
+			sprite planet/dust5
+			distance 299
+			period 14.5954
+
+system "Swarm 7"
+	pos 45.418 600.612
+	government Uninhabited
+	habitable 1715
+	link "Swarm 3"
+	link "Swarm 4"
+	asteroids "medium rock" 1 1.782
+	asteroids "large rock" 2 3.726
+	asteroids "large metal" 1 2.619
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/cloud2
+		distance 222
+		period 31.949
+	object
+		sprite planet/cloud6
+		distance 714.56
+		period 184.496
+		object
+			sprite planet/rock3
+			distance 170
+			period 22.6924
+	object
+		sprite planet/gas7
+		distance 1193.17
+		period 398.09
+	object "Swarm Planet 7"
+		sprite planet/gas2
+		distance 1879.26
+		period 786.88
+		object
+			sprite planet/rhea
+			distance 203
+			period 17.525
+
+system "Swarm Raids"
+	pos 319.139 231.948
+	habitable 1080
+	link "Voideater 1"
+	asteroids "small rock" 3 3.657
+	asteroids "medium rock" 1 2.1045
+	asteroids "large rock" 5 4.623
+	asteroids "small metal" 3 3.5535
+	asteroids "large metal" 2 4.14
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/ice0
+		distance 136.36
+		period 19.3811
+	object
+		sprite planet/dust1
+		distance 287.45
+		period 59.3187
+	object
+		sprite planet/ice6
+		distance 556.21
+		period 159.664
+		object
+			sprite planet/rock3
+			distance 133
+			period 19.2815
+	object
+		sprite planet/forest1
+		distance 1564.77
+		period 753.397
+	object
+		sprite planet/gas9
+		distance 2669.38
+		period 1678.66
+		object
+			sprite planet/io
+			distance 214
+			period 11.7385
+
+system "Swarm enter"
+	pos -10.3722 568.656
+	government Uninhabited
+	habitable 858.28
+	link "Swarm 2"
+	asteroids "small rock" 3 1.431
+	asteroids "medium rock" 4 1.539
+	asteroids "large rock" 1 1.782
+	asteroids "large metal" 6 3.132
+	trade Clothing 262
+	trade Electronics 835
+	trade Equipment 421
+	trade Food 248
+	trade "Heavy Metals" 882
+	trade Industrial 719
+	trade "Luxury Goods" 1235
+	trade Medical 715
+	trade Metal 410
+	trade Plastic 289
+	object
+		sprite star/g5
+		distance 29.8979
+		period 15.752
+		offset 180
+	object
+		sprite star/m4
+		distance 80.1021
+		period 15.752
+	object
+		sprite planet/cloud6
+		distance 245.662
+		period 52.5718
+	object
+		sprite planet/miranda
+		distance 581.072
+		period 191.245
+	object
+		sprite planet/gas12
+		distance 1553.51
+		period 836.021
+		object
+			sprite planet/dust0
+			distance 253
+			period 10.5698
+		object
+			sprite planet/ice7
+			distance 393
+			period 20.4632
+	object
+		sprite planet/ice0
+		distance 2082.47
+		period 1297.52
+
+system "Travel 1"
+	pos 485.081 307.271
+	habitable 486.68
+	link "Travel 2"
+	link "Voideater 6"
+	asteroids "large metal" 1 4.7294
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert2
+		distance 165.56
+		period 38.6253
+	object
+		sprite planet/gas14
+		distance 807.05
+		period 415.708
+		object
+			sprite planet/dust7
+			distance 253
+			period 16.3885
+		object
+			sprite planet/dust5
+			distance 352
+			period 26.8951
+		object
+			sprite planet/desert4
+			distance 445
+			period 38.2295
+	object
+		sprite planet/cloud1
+		distance 1806.49
+		period 1392.17
+		object
+			sprite planet/rock0
+			distance 172
+			period 18.4182
+
+system "Travel 2"
+	pos 427.081 261.271
+	habitable 425.92
+	link "Travel 3"
+	link "Travel 1"
+	asteroids "small rock" 2 3.108
+	asteroids "medium rock" 9 3.976
+	asteroids "large rock" 2 3.024
+	asteroids "small metal" 6 2.38
+	asteroids "medium metal" 8 3.388
+	asteroids "large metal" 4 3.948
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/desert8
+		distance 210
+		period 58.9827
+	object
+		sprite planet/rock13
+		distance 562.76
+		period 258.75
+	object
+		sprite planet/gas15
+		distance 1270.01
+		period 877.216
+		object
+			sprite planet/miranda
+			distance 207
+			period 15.6766
+	object
+		sprite planet/jupiter
+		distance 2137.1
+		period 1914.84
+
+system "Travel 3"
+	pos 448.081 200.271
+	habitable 858.28
+	link "Travel 2"
+	link "Suntrap 1"
+	asteroids "small rock" 10 4.3254
+	asteroids "medium rock" 92 6.804
+	asteroids "large rock" 84 3.8394
+	asteroids "small metal" 113 4.4226
+	asteroids "medium metal" 14 2.7702
+	asteroids "large metal" 8 2.916
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/g5
+		distance 22.5594
+		period 10.3243
+		offset 180
+	object
+		sprite star/m4
+		distance 60.4406
+		period 10.3243
+	object
+		sprite planet/cloud7
+		distance 222.451
+		period 45.2998
+	object
+		sprite planet/desert10
+		distance 449.611
+		period 130.167
+	object
+		sprite planet/lava5
+		distance 654.171
+		period 228.445
+	object
+		sprite planet/gas5
+		distance 1663.33
+		period 926.218
+		object
+			sprite planet/dust0
+			distance 220
+			period 10.8513
+	object
+		sprite planet/gas0
+		distance 2591.49
+		period 1801.23
+		object
+			sprite planet/lava0
+			distance 270
+			period 13.0018
+		object
+			sprite planet/desert4
+			distance 425
+			period 25.6767
+		object
+			sprite planet/rhea
+			distance 558
+			period 38.6285
+
+system "Voideater 1"
+	pos 307.081 291.271
+	habitable 1715
+	link "Voideater 2"
+	link "Voideater 3"
+	link "Swarm Raids"
+	asteroids "small rock" 18 2.9754
+	asteroids "medium rock" 69 2.907
+	asteroids "large rock" 19 2.2572
+	asteroids "small metal" 18 4.959
+	asteroids "medium metal" 31 3.0438
+	asteroids "large metal" 44 2.8044
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/f5
+		period 10
+	object
+		sprite planet/rock9
+		distance 278.359
+		period 44.8575
+		offset 18.2944
+	object "Planet 1"
+		sprite planet/forest2
+		distance 1178.81
+		period 390.925
+		offset 108.644
+	object
+		sprite planet/gas3
+		distance 2050.09
+		period 896.58
+		offset 3.35748
+		object
+			sprite planet/ice8
+			distance 431.239
+			period 22.874
+			offset 69.2559
+	object
+		sprite planet/neptune
+		distance 3590.67
+		period 2078.22
+		offset 191.952
+		object
+			sprite planet/callisto
+			distance 307.029
+			period 26.8041
+			offset 263.738
+		object
+			sprite planet/rock17
+			distance 428.706
+			period 44.2253
+			offset 295.394
+		object
+			sprite planet/ice7
+			distance 513.706
+			period 58.0101
+			offset 232.321
+		object
+			sprite planet/oberon
+			distance 731.927
+			period 98.6584
+			offset 323.906
+
+system "Voideater 2"
+	pos 408.081 319.271
+	habitable 912.6
+	link "Voideater 1"
+	link "Voideater 3"
+	asteroids "small rock" 8 2.52
+	asteroids "medium rock" 2 2.394
+	asteroids "large rock" 4 1.6695
+	asteroids "large metal" 3 4.3155
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k0
+		distance 45.7376
+		period 12.8457
+	object
+		sprite star/k5
+		distance 52.2624
+		period 12.8457
+		offset 180
+	object
+		sprite planet/cloud2
+		distance 266.222
+		period 57.5157
+	object "Planet 2"
+		sprite planet/forest4
+		distance 770.982
+		period 283.457
+		object
+			sprite planet/oberon
+			distance 167
+			period 19.3347
+	object
+		sprite planet/rock18
+		distance 1429.54
+		period 715.674
+	object
+		sprite planet/gas10
+		distance 2949.58
+		period 2121.1
+		object
+			sprite planet/dust0
+			distance 196
+			period 14.4438
+		object
+			sprite planet/lava0
+			distance 329
+			period 31.4117
+		object
+			sprite planet/rock14
+			distance 461
+			period 52.1013
+
+system "Voideater 3"
+	pos 362.081 358.271
+	habitable 851.84
+	link "Voideater 2"
+	link "Voideater 1"
+	link "Voideater 4"
+	link "Voideater 5"
+	link "Voideater 6"
+	asteroids "medium rock" 83 4.875
+	asteroids "large rock" 98 3.4875
+	asteroids "small metal" 5 2.4375
+	asteroids "medium metal" 71 5.025
+	asteroids "large metal" 10 5.0625
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k5
+		distance 58.5
+		period 17.3444
+		offset 180
+	object
+		sprite star/k5
+		distance 58.5
+		period 17.3444
+	object
+		sprite planet/ice4
+		distance 212.26
+		period 42.3822
+	object
+		sprite planet/gas15
+		distance 919.5
+		period 382.128
+		object
+			sprite planet/dust3
+			distance 203
+			period 15.2244
+		object
+			sprite planet/europa
+			distance 283
+			period 25.0598
+		object
+			sprite planet/io
+			distance 398
+			period 41.7948
+		object
+			sprite planet/rock14
+			distance 490
+			period 57.0941
+	object
+		sprite planet/gas3
+		distance 2020.74
+		period 1244.93
+		object
+			sprite planet/tethys
+			distance 278
+			period 11.8395
+		object
+			sprite planet/rhea
+			distance 380
+			period 18.9208
+		object "Planet 3"
+			sprite planet/luna
+			distance 474
+			period 26.3592
+
+system "Voideater 4"
+	pos 366.081 439.271
+	habitable 486.68
+	link "Voideater 3"
+	link "Voideater 5"
+	asteroids "small rock" 3 2.4624
+	asteroids "medium rock" 2 1.6188
+	asteroids "large rock" 2 1.368
+	asteroids "small metal" 1 1.7784
+	asteroids "medium metal" 6 2.2572
+	asteroids "large metal" 1 2.394
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/desert6
+		distance 158.16
+		period 36.0648
+	object
+		sprite planet/forest3
+		distance 460.2
+		period 179.002
+	object "Planet 4"
+		sprite planet/dust5
+		distance 634.96
+		period 290.107
+	object
+		sprite planet/gas13
+		distance 1205.37
+		period 758.785
+		object
+			sprite planet/rock3
+			distance 290
+			period 13.9414
+	object
+		sprite planet/gas12
+		distance 2733.37
+		period 2591.11
+		object
+			sprite planet/ice0
+			distance 264
+			period 11.2665
+		object
+			sprite planet/dust3
+			distance 404
+			period 21.3283
+		object
+			sprite planet/io
+			distance 509
+			period 30.1621
+		object
+			sprite planet/europa
+			distance 591
+			period 37.7369
+
+system "Voideater 5"
+	pos 446.081 448.271
+	habitable 1111.68
+	link "Voideater 3"
+	link "Voideater 4"
+	link "Voideater 6"
+	asteroids "medium rock" 3 3.304
+	asteroids "large rock" 1 3.584
+	asteroids "small metal" 16 2.968
+	asteroids "medium metal" 127 6.216
+	asteroids "large metal" 7 5.88
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/g5
+		distance 48.1567
+		period 13.8407
+	object
+		sprite star/k0
+		distance 61.8433
+		period 13.8407
+		offset 180
+	object
+		sprite planet/cloud3
+		distance 229.803
+		period 41.7931
+	object
+		sprite planet/rock2
+		distance 461.613
+		period 118.984
+	object
+		sprite planet/rock3
+		distance 859.623
+		period 302.366
+	object "Planet 5"
+		sprite planet/ocean6
+		distance 1068.78
+		period 419.184
+	object
+		sprite planet/gas4
+		distance 1492.79
+		period 691.942
+	object
+		sprite planet/gas15
+		distance 3369.83
+		period 2346.84
+		object
+			sprite planet/europa
+			distance 212
+			period 16.248
+		object
+			sprite planet/io
+			distance 326
+			period 30.983
+		object
+			sprite planet/rock7
+			distance 409
+			period 43.5394
+
+system "Voideater 6"
+	pos 483.081 377.271
+	habitable 486.68
+	link "Voideater 5"
+	link "Travel 1"
+	link "Voideater 3"
+	asteroids "small rock" 1 1.947
+	asteroids "medium rock" 9 4.95
+	asteroids "large rock" 7 2.541
+	asteroids "small metal" 7 4.884
+	asteroids "medium metal" 11 3.366
+	asteroids "large metal" 6 2.706
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/titan
+		distance 180.29
+		period 43.893
+	object "Planet 6"
+		sprite planet/lava4
+		distance 732.716
+		period 359.618
+		offset 154.279
+		object "Moon 1"
+			sprite planet/europa
+			distance 146
+			period 22.6275
+	object
+		sprite planet/ice4
+		distance 1101.96
+		period 663.261
+		offset 264.297
+	object
+		sprite planet/lava3
+		distance 1614.96
+		period 1176.74
+		offset 92.1516
+	object
+		sprite planet/gas6
+		distance 2538.17
+		period 2318.56
+		offset 27.7098
+		object
+			sprite planet/dust7
+			distance 268
+			period 11.2064
+		object
+			sprite planet/dust4
+			distance 410
+			period 21.2051
+
+planet "Moon 1"
+	landscape land/valley2
+	description `MOON BASE!`
+	spaceport `IT'S ON THE MOON!`
+
+planet "Moon 2"
+	landscape land/valley2
+	description `Moon base but gas giant`
+	spaceport TBD
+
+planet "Planet 1"
+	landscape land/valley2
+	description `The center of Voideater space, safetly tucked away from the suntraps`
+	spaceport `Boy oh boy wouldn't it SUCK if this place got invaded.`
+
+planet "Planet 10"
+	landscape land/valley2
+	description `Volcano base`
+	spaceport `TBD probably mining`
+
+planet "Planet 11"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 12"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 2"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 3"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 4"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 5"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 6"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 8"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Planet 9"
+	landscape land/valley2
+	description TBD
+	spaceport TBD
+
+planet "Swarm Planet 7"
+	attributes "requires: gaslining"
+	landscape ""
+	description `This is the the Swarm's least militarized planet. Most species that could conceivably invade the swarm can simply close the wormhole leading into their space, so the chance of foreign invaders reaching here is slim.`
+	description `The majority of cities here are designed to farm a species of algae, not to feed the swarm but instead their "cows". Swarm cows are allowed to roam free, although their only food source is these cities.`
+	spaceport `On most swarm planets the locals look at you with suspicion, but here they are rather welcoming. You can easily tell which adult ones are from off - world because they are the only ones with enhancements; the ones that live here are not allowed to have them installed. This probably has something to do with the fact that they can't survive in space without them.`
+
+planet "Swarm Planet 1"
+	attributes "requires: gaslining"
+	landscape ""
+	description TBD
+	spaceport TBD
+
+planet "Swarm Planet 2"
+	attributes "requires: gaslining"
+	landscape ""
+	description `Although the structure of some of the floating sky stations suggests otherwise, the only settlements here are military bases, likely due to it's position relative to the wormhole.`
+	spaceport `The largest floating city appears to have been heavily renovated. There may have been a time when the "Swarmers" where a more peaceful race, but this time has evidently passed.`
+
+planet "Swarm Planet 3"
+	attributes "requires: gaslining"
+	landscape ""
+	description TBD
+	spaceport TBD
+
+planet "Swarm Planet 4"
+	attributes "requires: gaslining"
+	landscape ""
+	description TBD
+	spaceport TBD
+
+planet "Swarm Planet 5"
+	attributes "requires: gaslining"
+	landscape ""
+	description TBD
+	spaceport TBD
+
+planet "Swarm Planet 6"
+	attributes "requires: gaslining"
+	landscape ""
+	description TBD
+	spaceport TBD
+
